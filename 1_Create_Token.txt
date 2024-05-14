@@ -1,0 +1,7 @@
+## Sign Up and Tokens
+
+http://www.sptrans.com.br/desenvolvedores/Default.aspx
+
+http://api.olhovivo.sptrans.com.br/v2.1/Login/Autenticar?token=
+
+http://api.olhovivo.sptrans.com.br/v2.1/Linha/Buscar?termosBusca=8000
